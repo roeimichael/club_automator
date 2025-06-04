@@ -3,3 +3,4 @@ opencv-python==4.8.1.78
 numpy==1.24.3
 python-dotenv==1.0.0 
 pytesseract
+deck-of-cards==0.0.10
